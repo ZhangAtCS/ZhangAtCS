@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ZhangAtCS
 - 👀 I’m interested in Algorithms and Data Strutures
 - 🌱 I’m currently learning Algorithms and Data Structures.
-- 💞️ I’m looking to collaborate on Algorithms and Data Structures.
 - 📫 How to reach me ...
 
 <!---
